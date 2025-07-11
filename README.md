@@ -273,23 +273,3 @@ git push origin feature/your-feature-name
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Vis.js Network** for powerful graph visualization capabilities
-- **Wikipedia API** for providing accessible knowledge content
-- **React Community** for the excellent ecosystem and tools
-- **Tailwind CSS** for enabling rapid, responsive UI development
-
-## 📞 Support
-
-- **Documentation**: Check this README and inline code comments
-- **Issues**: Report bugs and request features on GitHub Issues
-- **Discussions**: Join community discussions on GitHub Discussions
-- **Email**: Contact the maintainers at support@knowledgegraph.dev
-
----
-
-**Built with ❤️ for researchers, analysts, and knowledge workers worldwide.**
-
-*Transform unstructured text into structured knowledge graphs with the power of AI and interactive visualization.*
